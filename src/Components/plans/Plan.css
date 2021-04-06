@@ -1,0 +1,16 @@
+.plan {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.plan > button {
+    padding: 8px;
+    background-color: #e50914;
+    border: none;
+    color: white;
+    cursor: pointer;
+}
+.plan > button:hover {
+    opacity: 0.3;
+    transition: 1s;
+}
