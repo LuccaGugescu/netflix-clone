@@ -1,4 +1,5 @@
 Check out the latest Netflix trailers.
+
 Tech:
  - React
  - Firebase Auth
